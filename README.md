@@ -2,7 +2,7 @@
 **Programming Languages**
 - Java Core
 - Object-Oriented Programming (OOP)
-- Java Collections Framework
+- Java Collections Framework (Basic)
 
 **Backend Development**
 - Spring Boot
